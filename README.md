@@ -1,2 +1,2 @@
 # Capstone3
-Samsun
+Samsum
